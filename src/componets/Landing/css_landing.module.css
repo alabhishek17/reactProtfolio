@@ -1,0 +1,26 @@
+.sideA{
+    border: 2px solid green;
+}
+.age{
+    display: flex;
+    flex-direction: column;
+}
+.icons{
+    margin: 20px;
+    display: flex;
+    gap: 30px;
+}
+.sideB{
+    width: 60%;
+    height: 900px;
+    border: 2px solid black;
+    /* display: flex; */
+    gap: 100px;
+    
+}
+/* .img1{
+    display:flex;
+    flex-direction: column;
+      justify-content: center;
+      align-items: center;
+} */

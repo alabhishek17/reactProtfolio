@@ -1,0 +1,21 @@
+.sectA{
+    padding: 30px;
+    border: 2px solid greenyellow;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.sectB .card{
+    display: flex;
+    width: 40%;
+    border: 2px solid;
+    align-items: center;
+    justify-content: center;
+    padding:20px 10px;
+    
+    
+}
+.sectB img{
+    width: 40px;
+}
